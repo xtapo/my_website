@@ -19,13 +19,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Levi Vande Kamp
+title:                 Nulled Wp Themes, Plugins
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  XTAPO
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -41,8 +40,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <XTAPO> <PC>
+  email:               <info@xtapo.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
