@@ -1,30 +1,32 @@
 ---
-cover: true
-image: /assets/img/hydejack-8.png
-hide_description: true
+# Copyright (c) 2018 Florian Klampfer <https://qwtel.com/>
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+layout: base
 ---
 
-<!-- # Thank You
-Thank you for buying the PRO version of Hydejack! 🎉
+{% assign plugins = site.plugins | default:site.gems %}
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown, with my own editor, one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/). -->
+{% if plugins contains 'jekyll-paginate' %}
+  {% for post in paginator.posts %}
+    {% include components/post.html post=post no_link_title=page.no_link_title no_excerpt=page.no_excerpt hide_image=page.hide_image %}
+  {% endfor %}
 
-#HELO
-i have websit
-my websit
-
-<!-- ## First Steps
-Please start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
-
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md -->
+  {% include components/pagination.html %}
+{% else %}
+  {% capture text %}To use this layout, include the `jekyll-paginate` plugin in your `Gemfile` and your `_config.yml` under `plugins`.
+For more, see [Jekyll Pagination](https://jekyllrb.com/docs/pagination/).{% endcapture %}
+  {% include components/message.html text=text %}
+{% endif %}
