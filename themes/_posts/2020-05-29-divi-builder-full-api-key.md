@@ -12,8 +12,12 @@ You've never built a WordPress website like this before. Divi Nulled is more tha
 
 It can be enjoyed by design professionals and newcomers alike, giving you the power to create spectacular designs with surprising ease and efficiency.   
 
-## Demo Full Page
+<p align="center">
+
+## Demo Full Page  
 ![button](/assets/img/demo.png)](http://gestyy.com/e020Rb)
 
-## Download Divi Theme with API Key + All Elegant Themes Plugins
+## Download Divi Theme with API Key + All Elegant Themes Plugins  
 [![button](/assets/img/download.png)](http://gestyy.com/e020kS)
+
+</p>
