@@ -3,7 +3,7 @@ title:  Divi Builder and Divi Theme Full API Key Update Lifetime
 image: /assets/img/blog/wade-lambert.jpg
 categories: [themes]
 description: >
-Divi isn't just a WordPress theme, it's a complete design framework that allows you to design and customize every part of your website from the ground up.
+  Divi isn't just a WordPress theme, it's a complete design framework that allows you to design and customize every part of your website from the ground up.
 ---
 
 Hydejack was designed with personal sites in mind, i.e. sites with around 100 pages. Because of this, build speed hasn't been a major concern during its development. When attempting to use Hydejack with thousands of pages this becomes very apparent, as build times go from seconds, to minutes, to hours. 
