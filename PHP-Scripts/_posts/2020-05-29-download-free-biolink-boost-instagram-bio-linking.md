@@ -1,7 +1,7 @@
 ---
 title:  BioLinks - Instagram & TikTok Bio Links & URL Shortener (SAAS Ready)
 image: /assets/img/themes/BioLinks.jpg
-categories: [PHP Scripts]
+categories: [PHP-Scripts]
 description: >
   Biolinks is a problem solver for Instagram and TikTok linking problem and a URL Shortener at the same time! 
 ---
