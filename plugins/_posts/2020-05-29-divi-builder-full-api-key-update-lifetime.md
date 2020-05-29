@@ -1,6 +1,6 @@
 ---
 title:  Download Free Ajax Search Pro 4.18.4 - Live WordPress Search & Filter Plugin
-image: /assets/img/Ajax-Search-Pro-Live-WordPress-Search-Filter-Plugin.jpg
+image: /assets/img/themes/Ajax-Search-Pro-Live-WordPress-Search-Filter-Plugin.jpg
 categories: [plugins]
 tags: [ajax, wordpress plugin]
 description: >
