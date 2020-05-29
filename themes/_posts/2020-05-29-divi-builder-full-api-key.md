@@ -6,7 +6,12 @@ description: >
   Divi isn't just a WordPress theme, it's a complete design framework that allows you to design and customize every part of your website from the ground up.
 ---
 
-Hydejack was designed with personal sites in mind, i.e. sites with around 100 pages. Because of this, build speed hasn't been a major concern during its development. When attempting to use Hydejack with thousands of pages this becomes very apparent, as build times go from seconds, to minutes, to hours. 
+Divi Takes WordPress To A Whole New Level With Its Incredibly Advanced Visual Builder Technology. 
+
+You've never built a WordPress website like this before. Divi Nulled is more than just a WordPress theme, it's a completely new website building platform that replaces the standard WordPress post editor with a vastly superior visual editor. No need to Divi licence key or Purchase code. 
+
+It can be enjoyed by design professionals and newcomers alike, giving you the power to create spectacular designs with surprising ease and efficiency. 
+
 [![button](/assets/img/download.png)](https://mattermost.com)
 
 Before we get started, if you are primarily concerned with build times during writing/previewing new articles, try using the `--incremental` flag, e.g.
