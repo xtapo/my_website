@@ -14,17 +14,15 @@ Shortcodes and widgets compatible with page builders, such as: Elementor, WPBake
 Ajax Search Pro can act as an Elementor Live Posts and Products widget filter. Building a custom results page via Elementor is also supported.  
 
 ## Ajax Search Pro for WordPress – A Live WordPress search and filter plugin  
-Ajax Search Pro cho WordPress được thiết kế để tăng trải nghiệm tìm kiếm của người dùng lên mức tối đa. Nó cung cấp một tìm kiếm ajax trực tiếp, làm cho trải nghiệm tìm kiếm wordpress dễ hiểu hơn.  
+Ajax Search Pro for WordPress was designed to boost the user search experience to the maximum. It provides a live ajax search, which makes the wordpress search experience more confortable.  
 
-Các kết quả được trình bày với hình ảnh (nếu có tìm thấy), vì vậy chúng trông hấp dẫn hơn và ít bằng phẳng hơn. Tìm kiếm hoạt động với các thiết bị di động, hãy để nó được cung cấp Android hoặc IOS.  
+The results are presented with images (if any found), so they look more attractive and less flat. The search works with mobile devices, let it be Android or IOS powered.  
 
-Tìm kiếm có thể ghi đè kết quả tìm kiếm wordpress mặc định - vì vậy chức năng ajax được mở rộng - thay thế tìm kiếm chủ đề mặc định của bạn chỉ bằng một nút bấm.  
+The search can override the default wordpress search results – so the ajax functionality is extended – replace your default theme search with only a click of a button.  
 
-Tìm kiếm có thể trả về bài đăng, trang, bất kỳ loại bài đăng tùy chỉnh nào (như sản phẩm WooC Commerce, diễn đàn BBPress, chủ đề, trả lời), danh mục, thuật ngữ phân loại tùy chỉnh (như danh mục sản phẩm, thẻ danh mục đầu tư), kết quả của người dùng, nhóm BudddyPress và hoạt động BuddyPress.  
+The search can return posts, pages, any custom post types (like WooCommerce products, BBPress forums, topics, replies), categories, custom taxonomy terms (like product categories, portfolio tags), users, BudddyPress groups and BuddyPress activities as results.  
 
-Cũng có thể tìm kiếm tệp đính kèm phương tiện , bao gồm nội dung của chúng - đối với các tài liệu PDF, CSV, TXT, RTF và Office, tệp Excel và Powerpoint.  
-
-Hơn 60 chủ đề đầy màu sắc, hoàn toàn tùy biến sẽ giúp bạn tiết kiệm thời gian với bộ CSS, vì vậy bạn có thể tập trung hơn vào bài thuyết trình.   
+Searching media attachments, including their content is also possible – for PDF, CSV, TXT, RTF and Office documents, Excel and Powerpoint files.   
 
 
 ## Demo Full Page Ajax Search Pro 4.18.4
