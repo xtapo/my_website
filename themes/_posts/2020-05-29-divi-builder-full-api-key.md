@@ -15,7 +15,7 @@ It can be enjoyed by design professionals and newcomers alike, giving you the po
 <p align="center">
 
 ## Demo Full Page  
-![button](/assets/img/demo.png)](http://gestyy.com/e020Rb)
+[![button](/assets/img/demo.png)](http://gestyy.com/e020Rb)
 
 ## Download Divi Theme with API Key + All Elegant Themes Plugins  
 [![button](/assets/img/download.png)](http://gestyy.com/e020kS)
