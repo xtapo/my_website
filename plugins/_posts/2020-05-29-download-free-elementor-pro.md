@@ -36,7 +36,7 @@ Need to get your site offline for maintenance? Use Elementor page builder’s bu
 
 
 
-## Demo Full Page CartFlows Pro
+## Demo CartFlows Pro
 [![button](/assets/img/demo.png)](https://elementor.com/){:target="_blank"}  
 
 ## Download CartFlows Pro

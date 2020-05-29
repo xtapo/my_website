@@ -24,7 +24,7 @@ The search can return posts, pages, any custom post types (like WooCommerce prod
 Searching media attachments, including their content is also possible – for PDF, CSV, TXT, RTF and Office documents, Excel and Powerpoint files.   
 
 
-## Demo Full Page Ajax Search Pro 4.18.4
+## Demo Ajax Search Pro 4.18.4
 [![button](/assets/img/demo.png)](https://codecanyon.net/item/ajax-search-pro-for-wordpress-live-search-plugin/3357410){:target="_blank"}  
 
 ## Download Ajax Search Pro 4.18.4

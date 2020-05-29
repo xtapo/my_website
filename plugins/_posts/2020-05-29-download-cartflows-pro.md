@@ -16,7 +16,7 @@ Turn your WooCommerce website into a selling machine using one-click sales funne
 CartFlows is the best and easiest way to sell products and services on your website. With our library of done for you, one-click sales funnels, that literally sell your products and services for you.  
 
 
-## Demo Full Page CartFlows Pro
+## Demo CartFlows Pro
 [![button](/assets/img/demo.png)](https://cartflows.com/){:target="_blank"}  
 
 ## Download CartFlows Pro

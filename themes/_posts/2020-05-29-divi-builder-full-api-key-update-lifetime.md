@@ -12,7 +12,7 @@ You've never built a WordPress website like this before. Divi Free is more than 
 
 It can be enjoyed by design professionals and newcomers alike, giving you the power to create spectacular designs with surprising ease and efficiency.     
 
-## Demo Full Page Divi
+## Demo Divi
 [![button](/assets/img/demo.png)](https://www.elegantthemes.com/gallery/divi/){:target="_blank"}  
 
 ## Download Divi Theme with API Key + All Elegant Themes Plugins  
