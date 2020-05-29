@@ -1,6 +1,6 @@
 ---
 title:  Download Free Elementor Pro 2.9.8 - Page Builder WordPress
-image: /assets/img/themes/Elementor-Pro-WordPress-Plugin-Free-696x363-1.jpg
+image: /assets/img/themes/Elementor-Pro-WordPress-Plugin-Free-696x363-1.png
 categories: [plugins]
 description: >
   Download Free Elementor Pro is the best FREE WordPress Website Builder, with over 5 million active installs. Create beautiful sites and pages using a drag and drop interface.
