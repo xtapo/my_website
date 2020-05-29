@@ -16,7 +16,7 @@ It can be enjoyed by design professionals and newcomers alike, giving you the po
 
 <h2> Demo Full Page </h2>
 <a href="http://gestyy.com/e020Rb">
-<img src="http://s.4cdn.org/image/title/105.gif"></a>
+<img src="/assets/img/demo.png"></a>
 
 
 </p>
