@@ -49,8 +49,8 @@ author:
 menu:
   - title:             Themes
     url:               /themes/
-  - title:             Projects
-    url:               /projects/
+  - title:             Plugins
+    url:               /pplugins/
   - title:             Résumé*
     url:               /resume/
   - title:             Documentation
