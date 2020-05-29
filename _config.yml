@@ -51,8 +51,8 @@ menu:
     url:               /themes/
   - title:             Plugins
     url:               /plugins/
-  - title:             Résumé*
-    url:               /resume/
+  - title:             PHP Scripts
+    url:               /php-scripts/
   - title:             Documentation
     url:               /docs/
 
