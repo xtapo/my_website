@@ -1,5 +1,5 @@
 ---
-title:  Divi Builder and Divi Theme Full API Key Update Lifetime
+title:  Download Free Divi Builder and Divi Theme Full API Key Update Lifetime
 image: /assets/img/themes/Divi.jpg
 categories: [themes]
 description: >
@@ -8,7 +8,7 @@ description: >
 
 Divi Takes WordPress To A Whole New Level With Its Incredibly Advanced Visual Builder Technology. 
 
-You've never built a WordPress website like this before. Divi Nulled is more than just a WordPress theme, it's a completely new website building platform that replaces the standard WordPress post editor with a vastly superior visual editor. No need to Divi licence key or Purchase code. 
+You've never built a WordPress website like this before. Divi Free is more than just a WordPress theme, it's a completely new website building platform that replaces the standard WordPress post editor with a vastly superior visual editor. No need to Divi licence key or Purchase code. 
 
 It can be enjoyed by design professionals and newcomers alike, giving you the power to create spectacular designs with surprising ease and efficiency.     
 
