@@ -6,7 +6,7 @@ description: >
   Create conversion optimized sales funnels to WordPress websites complete with order bumps, one-click upsells, cart abandonment recovery, and more...
 ---
 
-###1 Funnel Builder For WordPress
+### 1 Funnel Builder For WordPress  
 ★★★★★
 
 Funnels are the most effective way to sell products & services. We created CartFlows, a WordPress Funnel Builder, to help every website owner get more leads, increase conversions, & maximize profits.  
