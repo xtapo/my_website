@@ -19,6 +19,5 @@ It can be enjoyed by design professionals and newcomers alike, giving you the po
 </p>  
 
 ## Download Divi Theme with API Key + All Elegant Themes Plugins  
-[![button](/assets/img/download.png)](http://gestyy.com/e020kS)
-
-[![button](/assets/img/download.png)](http://gestyy.com/e020kS)
+[![button](/assets/img/download.png)](http://gestyy.com/e020kS){:target="_blank"}  
+[![button](/assets/img/download.png)](http://gestyy.com/e020kS){:target="_blank"}  
