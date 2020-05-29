@@ -50,7 +50,7 @@ menu:
   - title:             Themes
     url:               /themes/
   - title:             Plugins
-    url:               /pplugins/
+    url:               /plugins/
   - title:             Résumé*
     url:               /resume/
   - title:             Documentation
