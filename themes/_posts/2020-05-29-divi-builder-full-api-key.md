@@ -18,9 +18,10 @@ It can be enjoyed by design professionals and newcomers alike, giving you the po
 <a href="http://gestyy.com/e020Rb">
 <img src="http://s.4cdn.org/image/title/105.gif"></a>
 
-## Download Divi Theme with API Key + All Elegant Themes Plugins  
-[![button](/assets/img/download.png)](http://gestyy.com/e020kS)
 
 </p>
+
+## Download Divi Theme with API Key + All Elegant Themes Plugins  
+[![button](/assets/img/download.png)](http://gestyy.com/e020kS)
 
 [![button](/assets/img/download.png)](http://gestyy.com/e020kS)
