@@ -25,7 +25,7 @@ Searching media attachments, including their content is also possible – for PD
 
 
 ## Demo Full Page Ajax Search Pro 4.18.4
-[![button](/assets/img/demo.png)](http://gestyy.com/e02e72){:target="_blank"}  
+[![button](/assets/img/demo.png)](https://codecanyon.net/item/ajax-search-pro-for-wordpress-live-search-plugin/3357410){:target="_blank"}  
 
 ## Download Ajax Search Pro 4.18.4
 [![button](/assets/img/download.png)](http://gestyy.com/e02rwb){:target="_blank"}  
