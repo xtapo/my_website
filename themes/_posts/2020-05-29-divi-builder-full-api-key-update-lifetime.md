@@ -2,6 +2,7 @@
 title:  Download Free Divi Builder and Divi Theme Full API Key Update Lifetime
 image: /assets/img/themes/Divi.jpg
 categories: [themes]
+tags: [divi, wordpress themes, wordpress plugin]
 description: >
   Divi isn't just a WordPress theme, it's a complete design framework that allows you to design and customize every part of your website from the ground up.
 ---
