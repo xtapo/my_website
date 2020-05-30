@@ -3,9 +3,7 @@ layout: list
 title: Themes
 slug: themes
 description: >
-  Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-  It’s based on Poole, the Jekyll butler.
-  Open `_featured_tags/hyde.md` to edit this text.
+  Download free premium wordpress themes, free plugins, ThemeForest Nulled, Envato market, site templates, blogger templates, Download Free Nulled, WP ...
 accent_color: rgb(38,139,210)
 accent_image:
   background: rgb(32,32,32)

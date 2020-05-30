@@ -409,7 +409,7 @@ Some names have changed and are no longer mentioned in the docs, but they are st
 
 That being said, you should be aware of these (small) breaking changes:
 
-* The favicon is now located in `assets/icons`. To change the favicon of the page, edit `favicon.ico` (png) in the folder.
+* The favicon is now located in `assets/icons`. To change the favicon of the page, edit `xtapo_favicon.ico` (png) in the folder.
 
 * Changed the way tables work, so that they do the right thing more often.
   Tables are now scrollable by default, but small tables are no longer stretched to span the full width.
