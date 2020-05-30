@@ -425,7 +425,7 @@ When using Hydejack's offline feature, the pages listed here will be downloaded 
 ## Adding custom favicons and app icons
 By default, Hydejack includes its own favicon, as well as app icons for in five different resolutions.
 
-To change the favicon, place your own `favicon.ico` into `assets/icons/` (create the folder if it doesn't exist).
+To change the favicon, place your own `xtapo_favicon.ico` into `assets/icons/` (create the folder if it doesn't exist).
 
 To use your own app icons, you need to prepare five square PNG files in the following resolutions, and put them into `assets/icons/` (create the folder if it doesn't exist):
 
@@ -449,7 +449,7 @@ Additionally, you can provide tiles for Window 10:
 
 If you don't want to use PNGs, or want to use different resolutions, you have to provide your own `assets/manifest.json` (and `assets/ieconfig.xml` when supporting Window 10). For more on web app manifests, see [MDN](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json).
 
-**NOTE**: In any case, Hydejack expects a `assets/icons/icon.png` file for use as `apple-touch-icon` and a `assets/icons/favicon.ico` for use as `shortcut icon`.
+**NOTE**: In any case, Hydejack expects a `assets/icons/icon.png` file for use as `apple-touch-icon` and a `assets/icons/xtapo_favicon.ico` for use as `shortcut icon`.
 {:.message}
 
 
