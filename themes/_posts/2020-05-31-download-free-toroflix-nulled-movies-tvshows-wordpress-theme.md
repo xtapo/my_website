@@ -22,6 +22,7 @@ Thanks to it you will be able to import all the data, year, directors, actors, t
 
 **Easy Customization**  
 We integrate several plugins and a quick and easy way to customize the theme to your liking. The limit will be set by your imagination. Get the best theme in the market and use it to attract more users to your website.  
+
 **100% Responsive**  
 Toroflix can look perfect on any device, we’ve made sure it stands out whether it’s a tablet, cell phone or PC. So take advantage of this amazing theme.  
 
