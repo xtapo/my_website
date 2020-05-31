@@ -1,5 +1,5 @@
 ---
-title:  Download Free Membership 1.8.4 - Plugin for WordPress
+title:  Download Free Membership 1.8.7 - Plugin for WordPress
 image: /assets/img/themes/MemberPress.jpg
 categories: [plugins]
 description: >
@@ -22,8 +22,8 @@ Unlike many other membership site solutions, MemberPress integrates fully with y
 
 
 
-## Demo Membership 1.8.4  
+## Demo Membership 1.8.7  
 [![button](/assets/img/demo.png)](https://memberpress.com/){:target="_blank"}  
 
-## Download Membership 1.8.4  
+## Download Membership 1.8.7  
 [![button](/assets/img/download.png)](http://gestyy.com/e05kjE){:target="_blank"}  
