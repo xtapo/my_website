@@ -1,6 +1,6 @@
 ---
 title:  Download Free Ohio 1.0.9 - Creative Portfolio & Agency WordPress Theme
-image: /assets/img/themes/scape-preview.jpg
+image: /assets/img/themes/ohio-creative-wordpress-theme.jpg
 categories: [themes]
 description: >
   Download Free Ohio. Ohio is a carefully crafted multi-purpose, minimalist, gorgeous, versatile portfolio and creative showcase theme with sharp user experience you need to building a modern and functional website, and start selling your products and services.
