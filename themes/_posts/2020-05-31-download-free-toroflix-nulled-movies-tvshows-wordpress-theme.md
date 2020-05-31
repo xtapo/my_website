@@ -1,6 +1,6 @@
 ---
 title:  Download Free Toroflix Nulled – Movies & TVShows WordPress Theme
-image: /assets/img/themes/toroflix.jpg.jpg
+image: /assets/img/themes/toroflix.jpg
 categories: [themes]
 description: >
   Download Free Toroflix Nulled. Toroflix Auto Embed Work With Dbmovies toroflix Is a Clean WordPress Theme For movies Full Auto Embed
