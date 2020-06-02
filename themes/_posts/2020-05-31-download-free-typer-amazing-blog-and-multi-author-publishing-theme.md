@@ -69,9 +69,10 @@ Lifetime Updates.
 Documentation and Install Video tutorial.   
 
 Professional and friendly support. Our team is always ready to help you with your queries.  
-
+  
+<figure class="video_container">
 <iframe width="560" height="315" src="https://www.fembed.com/v/7ry-jsg81nmdqrk" frameborder="0" allowfullscreen></iframe>
-
+</figure>
 
 
 ## Demo Toroflix Nulled – Movies & TVShows WordPress Theme
