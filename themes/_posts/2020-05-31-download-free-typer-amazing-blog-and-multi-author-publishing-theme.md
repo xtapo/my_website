@@ -71,7 +71,17 @@ Documentation and Install Video tutorial.
 Professional and friendly support. Our team is always ready to help you with your queries.  
   
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.fembed.com/v/7ry-jsg81nmdqrk" frameborder="0" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="phim" allowfullscreen></iframe>
+
+	<div id="third-party-server"><ul class="server-list">						<li class="backup-server">							
+		<span class="server-title">Link dự phòng</span>							
+		<ul class="list-episode">								
+		<li class="episode">															
+		<a  href="https://www.fembed.com/v/7ry-jsg81nmdqrk" target="phim">#6 PZC</a>			
+		<a  href="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" target="phim">#2 PZC</a>							</li>																																	
+	</ul>						
+</li>					
+</ul></div>
 </figure>
 
 
