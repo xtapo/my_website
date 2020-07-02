@@ -7,7 +7,7 @@ description: >
 tag: an toàn thông tin, bảo mật, dark web, deep web, deepweb
 ---
 
-**Không ai là không biết về Dark Web. Còn nếu bạn không biết thì đọc bài viết Sự khác nhau giữa Deep Web, Darknet và Dark Web. Nhiều doanh nghiệp gặp khó khăn khi bảo vệ dữ liệu khách hàng hoặc của chính doanh nghiệp đó khỏi dữ liệu bày bán thông tin công khai trên Dark Web. Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp bảo vệ dữ liệu của bạn khỏi Dark Web.**
+Không ai là không biết về Dark Web. Còn nếu bạn không biết thì đọc bài viết Sự khác nhau giữa Deep Web, Darknet và Dark Web. Nhiều doanh nghiệp gặp khó khăn khi bảo vệ dữ liệu khách hàng hoặc của chính doanh nghiệp đó khỏi dữ liệu bày bán thông tin công khai trên Dark Web. Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp bảo vệ dữ liệu của bạn khỏi Dark Web.  
 
 Cách tốt nhất để chống lại những rủi ro này, thì bạn phải hiểu Dark Web là gì? Và làm cách nào để ngăn chặn dữ liệu của bạn được rao bán trên đó.  
 
@@ -69,4 +69,6 @@ Mật khẩu thôi là chưa đủ, dưới đây là các cách khác để b�
 * Có phần mềm bảo mật cho di động.  
 * Áp dụng mã hoá dữ liệu  
 * Huấn luyện nhân viên về thực hành email an toàn và cách tránh lừa đảo  
-Bạn có thể giữ dữ liệu doanh nghiệp và khách hàng của bạn an toàn, nhưng cần nỗ lực và kiên trì. Thực hiện việc bảo vệ doanh nghiệp của bạn chống lại các nguy cơ bị đánh cắp dữ liệu.  
+Bạn có thể giữ dữ liệu doanh nghiệp và khách hàng của bạn an toàn, nhưng cần nỗ lực và kiên trì. Thực hiện việc bảo vệ doanh nghiệp của bạn chống lại các nguy cơ bị đánh cắp dữ liệu.    
+
+Nguồn: anonyviet
