@@ -1,13 +1,13 @@
 ---
 title:  Cách bảo vệ dữ liệu của bạn khỏi Dark Web
-image: /assets/img/blog/dark-web-la-gi-2.jpg
+image: /assets/img/blog/dark-web-la-gi-2.png
 categories: [blog]
 description: >
   Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp Cách bảo vệ dữ liệu của bạn khỏi Dark Web.
 tag: an toàn thông tin, bảo mật, dark web, deep web, deepweb
 ---
 
-**Không ai là không biết về Dark Web. Còn nếu bạn không biết thì đọc bài viết Sự khác nhau giữa Deep Web, Darknet và Dark Web. Nhiều doanh nghiệp gặp khó khăn khi bảo vệ dữ liệu khách hàng hoặc của chính doanh nghiệp đó khỏi dữ liệu bày bán thông tin công khai Dark Web. Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp Cách bảo vệ dữ liệu của bạn khỏi Dark Web.**
+**Không ai là không biết về Dark Web. Còn nếu bạn không biết thì đọc bài viết Sự khác nhau giữa Deep Web, Darknet và Dark Web. Nhiều doanh nghiệp gặp khó khăn khi bảo vệ dữ liệu khách hàng hoặc của chính doanh nghiệp đó khỏi dữ liệu bày bán thông tin công khai trên Dark Web. Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp bảo vệ dữ liệu của bạn khỏi Dark Web.**
 
 Cách tốt nhất để chống lại những rủi ro này, thì bạn phải hiểu Dark Web là gì? Và làm cách nào để ngăn chặn dữ liệu của bạn được rao bán trên đó.  
 
