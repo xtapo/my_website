@@ -22,9 +22,9 @@ No coding skill required. Build pages with Elementor Drag&Drop builder or Gutenb
 
 Easy Import demo content. Use our 1 Click installer to easily activate needed plugins, import pages, posts, theme settings, widgets and images.  
 
-Typer is 100% responsive, and it will work nicely on all devices(smart phones, tablets, computers and desktops). 
+Typer is 100% responsive, and it will work nicely on all devices(smart phones, tablets, computers and desktops).
 
-Powerful Settings: Change colors, fonts, layouts and post designs from Live Customizer. Override settings on single post. 
+Powerful Settings: Change colors, fonts, layouts and post designs from Live Customizer. Override settings on single post.
 
 Stax Header builder. Create amazing header layouts using Stax Drag and Drop header builder.  
 
@@ -52,40 +52,25 @@ Social sharing options included.
 
 Bottom sticky post navigation.  
 
-WPML Compatible. 
+WPML Compatible.
 
-SEO Friendly. 
+SEO Friendly.
 
-Child Theme Included. 
+Child Theme Included.
 
 Dozens of options for Blog Page Layouts.  
 
-Bootstrap 4.1. 
+Bootstrap 4.1.
 
-Google Fonts. 
+Google Fonts.
 
 Modern Browsers Support and latest technologies like CSS variables.  
 
-Lifetime Updates. 
+Lifetime Updates.
 
 Documentation and Install Video tutorial.   
 
-Professional and friendly support. Our team is always ready to help you with your queries.  
-  
-<figure class="video_container">
- <iframe width="560" height="315" src="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" frameborder="0" name="phim" allowfullscreen></iframe>
-
-	<div id="third-party-server"><ul class="server-list">						<li class="backup-server">							
-		<span class="server-title">Link dự phòng</span>							
-		<ul class="list-episode">								
-		<li class="episode">															
-		<a  href="https://www.fembed.com/v/7ry-jsg81nmdqrk" target="phim">#6 PZC</a>			
-		<a  href="https://dood.to/e/ns6y6svs0f5nc3e3qutvbpvpb443uads" target="phim">#2 PZC</a>							</li>																																	
-	</ul>						
-</li>					
-</ul></div>
-</figure>
-
+Professional and friendly support. Our team is always ready to help you with your queries.     
 
 ## Demo Toroflix Nulled – Movies & TVShows WordPress Theme
 [![button](/assets/img/demo.png)](https://themeforest.net/item/typer-amazing-blog-and-multi-author-publishing-theme/24818607){:target="_blank"}  
