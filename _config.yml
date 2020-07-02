@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://nulled.xtapo.com
+url:                   https://blog.xtapo.com
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Nulled Wp Themes, Plugins
+title:                 Blog XTAPO
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,7 +40,7 @@ logo:                  /assets/img/xtapo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                XTAPO PC
+  name:                XTAPO
   email:               info@xtapo.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
