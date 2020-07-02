@@ -6,8 +6,6 @@ description: >
   Download Free Typer is Fast & Modern WordPress Theme built for publishers, bloggers and news magazine websites. Typer lets you have Front User Profile ...
 ---
 
-{% include search-lunr.html %}
-
 Typer is Fast & Modern WordPress Theme built for publishers, bloggers and news magazine websites. Typer lets you have Front User Profile and allow others to publish articles on your site. Write blog posts with 100% supported Gutenberg builder and build awesome landing pages with Elementor.  
 
 **FEATURES**  
