@@ -9,7 +9,7 @@ sections:
   create: all
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
 - type: directory
   path: _projects
   label: Projects
