@@ -31,14 +31,16 @@ Bạn chỉ cần tải tiện ích FBnumber tại đây và cài đặt theo vi
     height: 100%;
 }
 </style>
-</head>
+
 <p>
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aNZfHPMTSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </div>  
 </p>
 
 [Download tiện ích FBNumber](https://fbnumber.com/api/v1/download/extension/timkiemdata)
 
-
+<div style= 'text-align: right;'>
 Nguồn: anonyviet
+</div>
