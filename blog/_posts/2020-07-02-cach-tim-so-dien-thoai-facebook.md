@@ -15,6 +15,23 @@ Thủ thuật này được hỗ trợ bởi một Tool Online và cách thực 
 FBnumber.com là website giúp bạn lấy số điện thoại của người like, comment, inbox hay của thành viên các hội nhóm, tài khoản Facebook bất kỳ với lượng dữ liệu big data 2020 mới nhất hiện nay.  
 Bạn chỉ cần tải tiện ích FBnumber tại đây và cài đặt theo video hướng dẫn bên dưới hoặc truy cập website: FBnumber.com và cài đặt tiện ích trên trình duyệt Chrome hoặc Cốc Cốc để dùng thử ngày nhé.  
 
+<style>
+
+.video-wrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.video-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+</head>
 <p>
 <div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aNZfHPMTSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
