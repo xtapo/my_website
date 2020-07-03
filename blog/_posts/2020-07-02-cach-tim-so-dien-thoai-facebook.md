@@ -56,9 +56,11 @@ Bước 3: Trên trình duyệt Chrome, bạn nhấp vào nút **Menu ở trên 
 
 ![Cách cài đặt Extension QuetFace.com](/assets/img/blog/TIEN-ICH-MO-RONG-CHROME.jpg)  
 
-Bạn bật **Chế độ dành cho nhà phát triển** ở góc trên bên phải. Click vào **Tải tiện ích đã giải nén**.
+Bạn bật **Chế độ dành cho nhà phát triển** ở góc trên bên phải. Click vào **Tải tiện ích đã giải nén**.  
 
-![Chế độ dành cho nhà phát triển](/assets/img/blog/che-do-danh-cho-nha-phat-trien.jpg) 
+![Chế độ dành cho nhà phát triển](/assets/img/blog/che-do-danh-cho-nha-phat-trien.jpg)  
+
+ Bạn trỏ đường dẫn về thư mục **quet_face_2.3.0** đã giải nén ở **Bước 2**
 
 
 <div style= 'text-align: right;'>
