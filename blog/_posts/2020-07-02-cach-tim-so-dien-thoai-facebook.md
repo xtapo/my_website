@@ -16,7 +16,7 @@ FBnumber.com là website giúp bạn lấy số điện thoại của người l
 Bạn chỉ cần tải tiện ích FBnumber tại đây và cài đặt theo video hướng dẫn bên dưới hoặc truy cập website: FBnumber.com và cài đặt tiện ích trên trình duyệt Chrome hoặc Cốc Cốc để dùng thử ngày nhé.  
 
 <p>
-<div class="video-wrapper" style='width:100%; height:10px; position:relative; margin-left: auto; margin-right: auto; overflow: hidden;'>
+<div class="video-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_aNZfHPMTSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>  
 </p>
