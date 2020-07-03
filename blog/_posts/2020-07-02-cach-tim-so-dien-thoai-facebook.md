@@ -47,7 +47,7 @@ Lợi ích của việc dùng Extension là số điện thoại sẽ hiển th�
 
 Quá tiện lợi cho đội Sale chuyên săn số điện thoại khách hàng theo các lĩnh vực. Ví dụ bạn vào Group Các mẹ bĩm sữa, chỉ cần vài click chuột từ Extension của **quetface.com** bạn đã có số điện thoại của các bà mẹ bĩm sữa tìm năng, sau đó đưa cho đội telesale xử lý thôi.  
 
-** Cách cài đặt Extension QuetFace.com  
+### Cách cài đặt Extension QuetFace.com   
 Bước 1: Trước tiên bạn cần [Download Extension QuetFace.com](https://quetface.com/api/download/extension/anonyviet) về máy tính.  
 
 Bước 2: Giải nén file vừa tải về, bạn sẽ thấy thư mục **quet_face_2.3.0**  
@@ -57,6 +57,8 @@ Bước 3: Trên trình duyệt Chrome, bạn nhấp vào nút **Menu ở trên 
 ![Cách cài đặt Extension QuetFace.com](/assets/img/blog/TIEN-ICH-MO-RONG-CHROME.jpg)  
 
 Bạn bật **Chế độ dành cho nhà phát triển** ở góc trên bên phải. Click vào **Tải tiện ích đã giải nén**.
+
+![Chế độ dành cho nhà phát triển](/assets/img/blog/che-do-danh-cho-nha-phat-trien.jpg) 
 
 
 <div style= 'text-align: right;'>
