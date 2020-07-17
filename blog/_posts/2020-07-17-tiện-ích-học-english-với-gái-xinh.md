@@ -20,10 +20,15 @@ Bước 2: Sau khi cài đặt, bạn hãy click như hình dưới để xuất
 ![](https://photo.techrum.vn/images/2020/07/16/Untitled-1d6a3f885942c69ae.jpg)
 
 Bây giờ, hãy click vào icon và tiến hành trả lời thử câu hỏi nha:  
-* Đây là trường hợp sai.    
+* Đây là trường hợp sai.  
+
 ![](https://photo.techrum.vn/images/2020/07/16/Untitled-155e11ce9115fa2e1.jpg)  
-* Đây là lúc trả lời đúng.    
+
+* Đây là lúc trả lời đúng.  
+
 ![](https://photo.techrum.vn/images/2020/07/16/Untitled-184e528a602025047.jpg)  
-Chúc bạn có những trải nghiệm vui vẻ nhé!    
+
+Chúc bạn có những trải nghiệm vui vẻ nhé!  
+    
 
 Nguồn: Group J2team
