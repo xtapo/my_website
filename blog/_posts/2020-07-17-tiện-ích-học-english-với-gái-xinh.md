@@ -1,6 +1,6 @@
 ---
 title:  Tiện ích "Học English với gái xinh" cho Chrome
-image: ![](https://photo.techrum.vn/images/2020/07/16/Untitled-1cd0d63522f0107da.jpg)
+image: /assets/img/blog/Untitled-1cd0d63522f0107da.jpg
 categories: [blog]
 description: >
   Ngay cả khi bạn điều hành một hệ thống an ninh chặt chẽ, thì sẽ luôn có rủi ro cho doanh nghiệp của bạn. Những cách dưới đây sẽ giúp Cách bảo vệ dữ liệu của bạn khỏi Dark Web.
@@ -13,17 +13,17 @@ TẢI VÀ SỬ DỤNG TIỆN ÍCH "HỌC ENGLISH VỚI GÁI XINH"
 
 Bước 1: Tải và cài đặt tiện ích Học English với gái xinh ở link dưới. Click vào Add to Chrome
 
-* [(Học English với gái xinh)](https://chrome.google.com/webstore/detail/h%E1%BB%8Dc-english-c%C3%B9ng-g%C3%A1i-xinh/fnolajggejmiljimgjgfmoepeomdkedg)
-![](https://photo.techrum.vn/images/2020/07/16/Untitled-134c789de47bd5bc1.jpg)
+* [(Học English với gái xinh)](https://chrome.google.com/webstore/detail/h%E1%BB%8Dc-english-c%C3%B9ng-g%C3%A1i-xinh/fnolajggejmiljimgjgfmoepeomdkedg)  
+![](https://photo.techrum.vn/images/2020/07/16/Untitled-134c789de47bd5bc1.jpg)  
 
-Bước 2: Sau khi cài đặt, bạn hãy click như hình dưới để xuất hiện icon của tiện ích:  
+Bước 2: Sau khi cài đặt, bạn hãy click như hình dưới để xuất hiện icon của tiện ích:    
 ![](https://photo.techrum.vn/images/2020/07/16/Untitled-1d6a3f885942c69ae.jpg)
 
 Bây giờ, hãy click vào icon và tiến hành trả lời thử câu hỏi nha:  
-* Đây là trường hợp sai.  
-![](https://photo.techrum.vn/images/2020/07/16/Untitled-155e11ce9115fa2e1.jpg)
-* Đây là lúc trả lời đúng.  
-![](https://photo.techrum.vn/images/2020/07/16/Untitled-184e528a602025047.jpg)
-Chúc bạn có những trải nghiệm vui vẻ nhé!  
+* Đây là trường hợp sai.    
+![](https://photo.techrum.vn/images/2020/07/16/Untitled-155e11ce9115fa2e1.jpg)  
+* Đây là lúc trả lời đúng.    
+![](https://photo.techrum.vn/images/2020/07/16/Untitled-184e528a602025047.jpg)  
+Chúc bạn có những trải nghiệm vui vẻ nhé!    
 
 Nguồn: Group J2team
